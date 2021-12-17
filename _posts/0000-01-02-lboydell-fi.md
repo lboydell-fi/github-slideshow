@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Hello World!1!
+![This is funny shit right here](https://i.imgflip.com/4dww3u.jpg)
 Use the left arrow to go back!
